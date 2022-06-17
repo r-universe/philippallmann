@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ANOM",
+    "oncran": true
+  },
+  {
+    "package": "jocre",
+    "oncran": true
+  },
+  {
+    "package": "modest",
+    "oncran": true
+  }
+]

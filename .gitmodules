@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ANOM"]
+	path = ANOM
+	url = https://github.com/philippallmann/anom
+	shallow = true
+	registered = true
+[submodule "jocre"]
+	path = jocre
+	url = https://github.com/philippallmann/jocre
+	shallow = true
+	registered = true
+[submodule "modest"]
+	path = modest
+	url = https://github.com/philippallmann/modest
+	shallow = true
+	registered = true
